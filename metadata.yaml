@@ -1,0 +1,33 @@
+_repo: Haaksirikkoiset_43798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkuna, Kyösti
+    alias: Wilkuna, Kyosti
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '4879'
+    url: http://www.gutenberg.org/2009/agents/4879
+    wikipedia: http://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
+description: ''
+gutenberg_issued: '2013-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43798'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+tableOfContents: I. Haaksirikkoiset. Lakki. Kova kovaa vastaan. Hätäkello. Omaa saarnaansa
+  kuulemassa. Leipä -- II. Rovasti ja renki. Vanhan häviö. Susi. Vaarallisella retkellä
+  -- III. Tulevaisuuden mies. Puolue-elämää -- IV. Hallusinatsioneja. Oikea syyllinen.
+  Rikottu kontrahti.
+title: Haaksirikkoiset
+url: http://www.gutenberg.org/ebooks/43798
